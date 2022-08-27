@@ -5,7 +5,9 @@
 #### Languages and Tools: Python / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / Linux / Nginx.
 
 #### My contact:
-![image](https://user-images.githubusercontent.com/57530624/187026230-bbedeaf5-136d-4815-96c1-220fd8a1c4f7.png)(https://t.me/Parovoz27)
+
+
+[![Dmitry GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexxar91)](https://github.com/Lexxar91/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
