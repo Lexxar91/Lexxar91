@@ -10,6 +10,8 @@
 [<img 
 src="https://user-images.githubusercontent.com/57530624/187027508-8ba157b7-9ce9-40f4-bf18-13a0c59af1ff.png" alt="habr" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg" style="max-width: 100%;">](https://vk.com/id257374176)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexxar91&theme=blue-green)
+
 
 
 
