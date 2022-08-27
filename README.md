@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi👋 My name is Dmitry. i'm Python-developer.
 
-<!--
-**Lexxar91/Lexxar91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Yandex.Practicum graduate
 
-Here are some ideas to get you started:
+#### Languages and Tools: Python / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / Linux / Nginx.
+
+#### My contact:
+![image](https://user-images.githubusercontent.com/57530624/187026107-849f84dc-129e-4a1c-8e98-eb9873892f85.png)(https://t.me/Parovoz27)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
