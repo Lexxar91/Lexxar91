@@ -2,7 +2,8 @@
 
 #### Yandex.Practicum graduate
 
-#### Languages and Tools: Python / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / Linux / Nginx.<hr>
+#### Languages and Tools: Python / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / Linux / Nginx /
+FastApi / Flask / SLQAlchemy / Scrapy.<hr>
 
 #### My contact:
 [<img src="https://camo.githubusercontent.com/35650e49d3cc754ccc618cf7731d3d1a2c701d6cfd69ce9f22b0f7779c0f3204/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f74656c656772616d2e737667" alt="telegram" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" style="max-width: 100%;">](https://t.me/Parovoz27)
